@@ -210,10 +210,12 @@ input[type=text], select, textarea {
     top: -200px;
   }
 
-  .contact{
+  .contactUs{
     margin-bottom: 0;
     position: relative;
     background-color: black;
+      margin-top: 150%;
+      color: whitesmoke;
   }
 
   .fa {
