@@ -213,7 +213,7 @@ input[type=text], select, textarea {
   .contactUs{
     margin-bottom: 0;
     position: relative;
-    background-color: black;
+    background-color: black; !important
       margin-top: 150%;
       color: whitesmoke;
   }
